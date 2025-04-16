@@ -7,9 +7,6 @@ int main(int argc, char *argv[])
 
 
     // this project is added to github
-
-    // sth
-    // this is hamid
     QApplication a(argc, argv);
     Main_project_page_1 w;
     w.show();
