@@ -10,6 +10,7 @@ int main(int argc, char *argv[])
 
 
     // this is hamid
+    // hellowwwwwwwwwwwwwwwwwwwwwwwwws
     QApplication a(argc, argv);
     Main_project_page_1 w;
     w.show();
