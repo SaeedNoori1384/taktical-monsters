@@ -17,6 +17,7 @@ Main_project_page_2::~Main_project_page_2()
      delete ui;
 }
 // jfijfiejwfjieijfi
+//coment test
 void Main_project_page_2::on_pushButton_clicked()
 {
     Main_Project_page_3_1 *w3 = new Main_Project_page_3_1 ;
