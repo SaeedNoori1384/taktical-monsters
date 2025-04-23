@@ -20,50 +20,54 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>270</x>
-      <y>160</y>
-      <width>301</width>
+      <x>200</x>
+      <y>150</y>
+      <width>391</width>
       <height>61</height>
      </rect>
     </property>
     <property name="font">
      <font>
       <pointsize>26</pointsize>
+      <italic>true</italic>
+      <bold>true</bold>
      </font>
     </property>
     <property name="styleSheet">
      <string notr="true">background-color: rgb(10, 255, 26);</string>
     </property>
     <property name="text">
-     <string>بازیکن شماره ۲ :</string>
+     <string>player number one :</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>740</x>
-      <y>160</y>
-      <width>301</width>
+      <x>730</x>
+      <y>170</y>
+      <width>391</width>
       <height>61</height>
      </rect>
     </property>
     <property name="font">
      <font>
       <pointsize>26</pointsize>
+      <italic>true</italic>
+      <bold>true</bold>
      </font>
     </property>
     <property name="styleSheet">
      <string notr="true">background-color: rgb(10, 255, 26);</string>
     </property>
     <property name="text">
-     <string>بازیکن شماره ۱ :</string>
+     <string>player number two :</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>370</y>
+      <x>280</x>
+      <y>360</y>
       <width>251</width>
       <height>51</height>
      </rect>
@@ -88,8 +92,8 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>520</x>
-      <y>660</y>
+      <x>440</x>
+      <y>590</y>
       <width>271</width>
       <height>71</height>
      </rect>
@@ -97,13 +101,15 @@
     <property name="font">
      <font>
       <pointsize>26</pointsize>
+      <italic>true</italic>
+      <bold>true</bold>
      </font>
     </property>
     <property name="styleSheet">
      <string notr="true">background-color: rgb(255, 0, 0);</string>
     </property>
     <property name="text">
-     <string>بزن بریم</string>
+     <string>Lets go</string>
     </property>
    </widget>
   </widget>
