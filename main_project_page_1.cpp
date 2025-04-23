@@ -7,6 +7,7 @@
 Main_project_page_1::Main_project_page_1(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::Main_project_page_1)
+//salam
 {
     ui->setupUi(this);
     QPixmap pix("D:/project/Main_project_page_1/page_1.png");
